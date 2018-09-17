@@ -1,11 +1,14 @@
 _repo: Lajien-synty-Luonnollisen-valinnan-kautta_52187
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: On the origin of species. Finnish
 contributor:
   translator:
     agent_name: Koskimies, A. R.
     gutenberg_agent_id: '46714'
     url: http://www.gutenberg.org/2009/agents/46714
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52187#Lajien-synty-Luonnollisen-valinnan-kautta
 gutenberg_issued: '2016-05-29'
 gutenberg_type: Text
 identifiers:
