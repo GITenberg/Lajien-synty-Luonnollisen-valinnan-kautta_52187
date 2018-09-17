@@ -1,0 +1,33 @@
+_repo: Lajien-synty-Luonnollisen-valinnan-kautta_52187
+_version: 0.0.1
+alternative_title: On the origin of species. Finnish
+contributor:
+  translator:
+    agent_name: Koskimies, A. R.
+    gutenberg_agent_id: '46714'
+    url: http://www.gutenberg.org/2009/agents/46714
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_issued: '2016-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52187'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural selection'
+- !lcc 'QH'
+- !lcsh 'Evolution (Biology)'
+- GITenberg
+title: 'Lajien synty: Luonnollisen valinnan kautta'
+url: http://www.gutenberg.org/ebooks/52187
